@@ -18,3 +18,4 @@ Extensions.
    page on chrome
 9. Background scripts? Don't know, should research
 10. Manifest version also no clue
+11. Popup and configuration are all html files. Works just like normal web development
